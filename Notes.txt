@@ -1,0 +1,17 @@
+1) Read files - fs.readFile()
+- create welcome.html
+- create readfile.js
+>node readfile.js
+- run http://localhost:8082/ in browser
+2) Write files - fs.writeFile()
+-create writefile.js
+>node writefile.js
+3) append file - fs.appendFile()
+-create appendfile.js
+>node appendfile.js
+4) rename file - fs.rename()
+- create renamefile.js
+>node renamefile.js
+5) delete file - fs.unlink()
+-create deletefile.js
+>node deletefile.js
